@@ -1,5 +1,12 @@
 # Zaxxon-3D-Shooter-Arcade-Game
-It's a single user 3D fighter shooting multilevel and multi environment game developed with UNITY game engine and C# as back-end coding.
+ZaxxonJ - 2019 is a 3D game developed in “Unity” with backend coding in “C-sharp.” Unity is
+a cross-platform game engine developed by Unity Technologies, while C# (pronounced see
+sharp) is a general-purpose multi-paradigm programming language developed by Microsoft
+as part of its .Net initiative.
+ZaxxonJ is a multilevel 3d shooting game, and it is a single-player shooting game which has
+multiple levels, layouts, asteroids, multiple enemy ships, fuel collector, pick up coins,
+hurdles, power rays, creatures, VFX effects, sound, etc.
+The following is project URL http://localhost:55945/ to run the game on the local mahine.
 
 # Download Source Code
 The entire source code can be downoaded from the following link : <br/>
