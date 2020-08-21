@@ -11,3 +11,8 @@ The following is project URL http://localhost:55945/ to run the game on the loca
 # Download Source Code
 The entire source code can be downoaded from the following link : <br/>
 https://drive.google.com/file/d/12H7jTaItMPKFxr4tInrnU90bS52Yssg-/view
+
+
+# Download the runable code
+This is the built file of the game. Download and run it in a browser.
+https://drive.google.com/file/d/18s26FvCa939B19Ai9m_iTpocT7s5MBW7/view?usp=sharing
